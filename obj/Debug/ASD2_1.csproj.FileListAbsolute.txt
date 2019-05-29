@@ -1,0 +1,7 @@
+C:\Users\Pucaj\source\repos\ASD2_1\ASD2_1\bin\Debug\ASD2_1.exe.config
+C:\Users\Pucaj\source\repos\ASD2_1\ASD2_1\bin\Debug\ASD2_1.exe
+C:\Users\Pucaj\source\repos\ASD2_1\ASD2_1\bin\Debug\ASD2_1.pdb
+C:\Users\Pucaj\source\repos\ASD2_1\ASD2_1\obj\Debug\ASD2_1.csprojAssemblyReference.cache
+C:\Users\Pucaj\source\repos\ASD2_1\ASD2_1\obj\Debug\ASD2_1.csproj.CoreCompileInputs.cache
+C:\Users\Pucaj\source\repos\ASD2_1\ASD2_1\obj\Debug\ASD2_1.exe
+C:\Users\Pucaj\source\repos\ASD2_1\ASD2_1\obj\Debug\ASD2_1.pdb
